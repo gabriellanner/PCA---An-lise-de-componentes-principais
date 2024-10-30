@@ -10,11 +10,11 @@ Na segunda versão, utilizo a biblioteca Scikit-learn, que oferece uma implement
 
 Segue imagens dos resultados:
 
-Na primeira versão, os 10 componentes principais acumulados explicam  95,783 dos dados
+Na primeira versão, os 10 componentes principais acumulados explicam 95,783% da variabilidade dos dados.
 
 ![image](https://github.com/user-attachments/assets/381d89c9-4b0e-43de-9aed-0a3211ee3df7)
 
-Na segunda versão, utilizando o sklearn temos o valor total de 95,787
+Já na segunda versão, utilizando o Scikit-learn, obtemos um valor total de 95,787% de variância explicada
 
 ![image](https://github.com/user-attachments/assets/223f862e-a815-4f51-8e93-7532be96c33b)
 
